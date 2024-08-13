@@ -9,7 +9,7 @@
 Global Furniture aims to provides insights into the sales performance of a Global furniture showroom.By analyzing various aspects of data,we seek to identify trends,patterns.
 Moreover In this dataset we calcualted revenue,sales by creating new column. |GlobalFurniture Dashboard|.
 
-  !(GlobalFurniture - list)[GlobalFurniture-list.xlsx](https://github.com/MadisettySurekha/Data-Analysis/new/main?filename=README.md)
+  !(GlobalFurniture-list)[GlobalFurniture-list.xlsx](https://github.com/MadisettySurekha/Documentation-Global-Furniture/edit/main/README.md)
 
 ## PowerBI Portfolio
 By performing a dashboard:
